@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jump-game/static/css/main.aa69ddb3.css",
-    "main.js": "/jump-game/static/js/main.d375761d.js",
+    "main.css": "/jump-game/static/css/main.46f5f5ca.css",
+    "main.js": "/jump-game/static/js/main.00f34427.js",
     "static/js/787.2a44e206.chunk.js": "/jump-game/static/js/787.2a44e206.chunk.js",
     "static/media/zelda.mp3": "/jump-game/static/media/zelda.02f21e059b4994917fd3.mp3",
     "static/media/backgroundTowers.png": "/jump-game/static/media/backgroundTowers.3cdbb2028fadcb100aa5.png",
@@ -25,12 +25,12 @@
     "static/media/jump.mp3": "/jump-game/static/media/jump.1d5b3091217d45498bfe.mp3",
     "static/media/cloud.png": "/jump-game/static/media/cloud.6df42ca05b88c8cb7aa4.png",
     "index.html": "/jump-game/index.html",
-    "main.aa69ddb3.css.map": "/jump-game/static/css/main.aa69ddb3.css.map",
-    "main.d375761d.js.map": "/jump-game/static/js/main.d375761d.js.map",
+    "main.46f5f5ca.css.map": "/jump-game/static/css/main.46f5f5ca.css.map",
+    "main.00f34427.js.map": "/jump-game/static/js/main.00f34427.js.map",
     "787.2a44e206.chunk.js.map": "/jump-game/static/js/787.2a44e206.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa69ddb3.css",
-    "static/js/main.d375761d.js"
+    "static/css/main.46f5f5ca.css",
+    "static/js/main.00f34427.js"
   ]
 }
