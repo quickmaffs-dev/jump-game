@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/jump-game/static/css/main.46f5f5ca.css",
-    "main.js": "/jump-game/static/js/main.00f34427.js",
+    "main.css": "/jump-game/static/css/main.d542616d.css",
+    "main.js": "/jump-game/static/js/main.5d216027.js",
     "static/js/787.2a44e206.chunk.js": "/jump-game/static/js/787.2a44e206.chunk.js",
+    "static/media/menuBackground.png": "/jump-game/static/media/menuBackground.6b0421fafe396bf1281c.png",
     "static/media/zelda.mp3": "/jump-game/static/media/zelda.02f21e059b4994917fd3.mp3",
     "static/media/backgroundTowers.png": "/jump-game/static/media/backgroundTowers.3cdbb2028fadcb100aa5.png",
     "static/media/coinMusic.mp3": "/jump-game/static/media/coinMusic.e54b017f74b5b16dca58.mp3",
     "static/media/snitch.png": "/jump-game/static/media/snitch.419f19e92119f9a4e5e8.png",
+    "static/media/speed1.png": "/jump-game/static/media/speed1.8656a382b0dad7cc73f8.png",
+    "static/media/speed3.png": "/jump-game/static/media/speed3.e1fdd7478ef651ca1028.png",
+    "static/media/speed2.png": "/jump-game/static/media/speed2.b5a48330c0aa1f711ba6.png",
     "static/media/goodTimesFont.ttf": "/jump-game/static/media/goodTimesFont.772115132e8c32d4da43.ttf",
+    "static/media/levelThree.png": "/jump-game/static/media/levelThree.e0fe9fa5d1d938663579.png",
     "static/media/potter4.png": "/jump-game/static/media/potter4.622f3fec3aabacd19b0e.png",
     "static/media/dementor.png": "/jump-game/static/media/dementor.389d0f6a4e968b6d11c8.png",
+    "static/media/levelOne.png": "/jump-game/static/media/levelOne.c1333b8f793c20b7e7c2.png",
+    "static/media/levelTwo.png": "/jump-game/static/media/levelTwo.96ec3d3f6de0a30ee9be.png",
     "static/media/quidditch04.jpg": "/jump-game/static/media/quidditch04.dbeb23391fa2a5001b62.jpg",
     "static/media/success.mp3": "/jump-game/static/media/success.7a7fcfe0d43a623b716e.mp3",
     "static/media/quidditch01.jpg": "/jump-game/static/media/quidditch01.f2975e70424fc7f7525f.jpg",
@@ -17,20 +24,22 @@
     "static/media/quidditch02.jpg": "/jump-game/static/media/quidditch02.ebf0feb9c90291d660e9.jpg",
     "static/media/quidditch03.jpg": "/jump-game/static/media/quidditch03.5a900725facab018e553.jpg",
     "static/media/bladeRunnerFont.TTF": "/jump-game/static/media/bladeRunnerFont.0c7e2ce28555cce80449.TTF",
+    "static/media/speedDec.png": "/jump-game/static/media/speedDec.34edde3893e70ce570f1.png",
     "static/media/harryPotterFont.TTF": "/jump-game/static/media/harryPotterFont.a65869c0c1a4b3d4fcfc.TTF",
     "static/media/ginny.png": "/jump-game/static/media/ginny.029d83b24d57cf0aad41.png",
+    "static/media/speedInc.png": "/jump-game/static/media/speedInc.e51ae9ba03ad7da24538.png",
     "static/media/draco.png": "/jump-game/static/media/draco.e69ca8b049e8275b8095.png",
     "static/media/coinCollect.mp3": "/jump-game/static/media/coinCollect.b869895d7bb1d6fe2af8.mp3",
     "static/media/roblox.mp3": "/jump-game/static/media/roblox.52c22e3a1d4a475a9b7a.mp3",
     "static/media/jump.mp3": "/jump-game/static/media/jump.1d5b3091217d45498bfe.mp3",
     "static/media/cloud.png": "/jump-game/static/media/cloud.6df42ca05b88c8cb7aa4.png",
     "index.html": "/jump-game/index.html",
-    "main.46f5f5ca.css.map": "/jump-game/static/css/main.46f5f5ca.css.map",
-    "main.00f34427.js.map": "/jump-game/static/js/main.00f34427.js.map",
+    "main.d542616d.css.map": "/jump-game/static/css/main.d542616d.css.map",
+    "main.5d216027.js.map": "/jump-game/static/js/main.5d216027.js.map",
     "787.2a44e206.chunk.js.map": "/jump-game/static/js/787.2a44e206.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46f5f5ca.css",
-    "static/js/main.00f34427.js"
+    "static/css/main.d542616d.css",
+    "static/js/main.5d216027.js"
   ]
 }
