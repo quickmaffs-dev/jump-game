@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jump-game/static/css/main.498459cb.css",
-    "main.js": "/jump-game/static/js/main.03c48652.js",
+    "main.js": "/jump-game/static/js/main.bb6d0dfd.js",
     "static/js/787.2a44e206.chunk.js": "/jump-game/static/js/787.2a44e206.chunk.js",
     "static/media/menuBackground.png": "/jump-game/static/media/menuBackground.6b0421fafe396bf1281c.png",
     "static/media/zelda.mp3": "/jump-game/static/media/zelda.02f21e059b4994917fd3.mp3",
@@ -35,11 +35,11 @@
     "static/media/cloud.png": "/jump-game/static/media/cloud.6df42ca05b88c8cb7aa4.png",
     "index.html": "/jump-game/index.html",
     "main.498459cb.css.map": "/jump-game/static/css/main.498459cb.css.map",
-    "main.03c48652.js.map": "/jump-game/static/js/main.03c48652.js.map",
+    "main.bb6d0dfd.js.map": "/jump-game/static/js/main.bb6d0dfd.js.map",
     "787.2a44e206.chunk.js.map": "/jump-game/static/js/787.2a44e206.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.498459cb.css",
-    "static/js/main.03c48652.js"
+    "static/js/main.bb6d0dfd.js"
   ]
 }
